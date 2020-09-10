@@ -142,7 +142,7 @@ class Footer extends Component {
 
         <div className="footer-copyright text-center py-3">
           © 2020 Copyright:
-          <Link to="/" href="https://fidbagraphics.com.com/" target="blank">
+          <Link to="/" href="https://fidbagraphics.com/" target="blank">
             {" "}
             Fidba Graphics
           </Link>
